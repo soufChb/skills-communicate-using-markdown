@@ -3,3 +3,6 @@
 ```Python
 print('Hello World !')
 ```
+- [X] Connection check.
+- [X] authentification check.
+- [ ] start communication.
